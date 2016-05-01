@@ -1,0 +1,19 @@
+{
+	"multipart": [
+		{   "when": { "north": false, "east": false, "south": false, "west": false },
+			"apply": { "model": "iron_bars_post" }
+		},
+		{   "when": { "north": true },
+			"apply": { "model": "iron_bars_side_north" }
+		},
+		{   "when": { "east": true },
+			"apply": { "model": "iron_bars_side_east" }
+		},
+		{   "when": { "south": true },
+			"apply": { "model": "iron_bars_side_south" }
+		},
+		{   "when": { "west": true },
+			"apply": { "model": "iron_bars_side_west" }
+		}
+	]
+}

@@ -1,0 +1,76 @@
+﻿[C]§f===============
+[C]§eMahimaina Whakahoonore
+[C]§f===============
+
+§7Na Hanga:
+§f			Ko Markus Persson
+
+§7Kemu whakaahua, te reo rorohiko me te whakanikoniko:
+§f			Ko Markus Persson ratou
+§f			ko Jens Bergensten
+§f			ko Nathan Adams
+§f			Ko Ryan Holtz
+§f			ko Michael Stoyke
+§f			ko Erik Broes
+§f			ko Thomas Guimbretière
+
+§7Nga puoro me nga tangi:
+§f			Ko Daniel Rosenfeld raua
+§f			ko Samuel Åberg
+
+§7Nga pikitia me nga mahi toi i te kemu:
+§f			Ko Kristoffer Zetterstrand
+
+§7Te purakau kemu whakamutu:
+§f			Ko Whetu Paitai
+
+§7Whakawhaneke o te mata ipurangi:
+§f			Ko Tobias Möllstam
+ ratou§f			ko Daniel Frisk
+§f			ko Leonard Gram
+§f			ko Jens Bergensten
+§f			ko Markus Persson
+
+§7Tohu me te mahi toi hapahapai:
+§f			Ko Markus Toivonen
+
+§7Kaipakihi me te kaitari:
+§f			Ko Carl Manneh raua
+§f			ko Daniel Kaplan
+
+§7Te kaiwhakahaere harikoa:
+§f			Ko Lydia Winters
+
+§7Pangarau me te tatauranga:
+§f			Ko Patrick Geuder
+
+§7Te roopu whakanekeneke o Nga Wahi:
+§f			Ko Daniel Frisk
+ ratou§f			ko Leonard Gram
+§f			ko David Marby
+§f			ko Philip Vieira
+
+§7Kaiwhakahaere o te rauemi o Nga Wahi:
+§f			Ko Marc Watson
+
+§7Tautoko reo rorohiko:
+§f			Ko Paul Spooner ratou
+§f			ko Ryan 'Scaevolus' Hitchman
+§f			ko Elliot 'Hippoplatimus' Segal
+
+§7Nga kaiwhakanekeneke o nga atu kiirehe:
+§f			Ko John Olarte (DrZhark) ratou
+§f			ko Kent Christian Jensen
+§f			ko Dan Roque
+
+§7Nga rauemi rorohiko:
+§f			Java na Oracle
+§f			LWJGL na tangata puumanawa§f			"3d Sound System" na Paul Lamb
+§f			JOrbis na JCraft
+
+
+
+
+
+
+§f"Whaaia te iti kahurangi ki te tuuohu koe me he maunga teitei" §7- Na nga taangata maaori.

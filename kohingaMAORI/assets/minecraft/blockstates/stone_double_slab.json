@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "double_stone", "weight": 120 },
+			{ "model": "bdc_slab_double_stone01", "weight": 3 },
+			{ "model": "bdc_slab_double_stone02", "weight": 3 },
+			{ "model": "bdc_slab_double_stone03", "weight": 3 },
+			{ "model": "bdc_slab_double_stone04", "weight": 3 },
+			{ "model": "bdc_slab_double_stone05", "weight": 3 },
+			{ "model": "bdc_slab_double_stone06", "weight": 3 },
+			{ "model": "bdc_slab_double_stone07", "weight": 3 },
+			{ "model": "bdc_slab_double_stone08", "weight": 3 },
+			{ "model": "bdc_slab_double_stone09", "weight": 3 },
+			{ "model": "bdc_slab_double_stone10", "weight": 3 },
+			{ "model": "bdc_slab_double_stone11", "weight": 3 }
+		],
+        "all":    { "model": "double_stone_top" }
+    }
+}

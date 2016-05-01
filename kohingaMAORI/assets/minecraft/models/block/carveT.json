@@ -1,0 +1,11 @@
+{
+    "parent": "block/stairsCarve",
+    "textures": {
+        "down": "blocks/log_oak_top",
+        "up": "blocks/log_oak_top",
+        "north": "blocks/log_oak",
+        "south": "blocks/log_oak",
+        "east": "blocks/log_oak",
+        "west": "blocks/carve_top"
+    }
+}

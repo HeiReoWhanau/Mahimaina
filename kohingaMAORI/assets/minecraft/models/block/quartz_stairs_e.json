@@ -1,0 +1,11 @@
+{
+    "parent": "block/stairsQuartz",
+    "textures": {
+        "down": "blocks/quartz_block_bottom",
+        "up": "blocks/quartz_block_top3",
+        "north": "blocks/quartz_block_side",
+        "south": "blocks/quartz_block_side",
+        "east": "blocks/quartz_block_side",
+        "west": "blocks/quartz_block_top9"
+    }
+}
